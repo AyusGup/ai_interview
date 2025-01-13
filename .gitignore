@@ -1,0 +1,5 @@
+*/.env
+*/node_modules
+passport-photo.jpg
+record_out.wav
+tone_analysis_service/emotion_model.pth
